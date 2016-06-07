@@ -7,7 +7,7 @@
 //
 
 #import "SegmentTableViewController.h"
-#import <HMSegmentedControl/HMSegmentedControl.h>
+#import "HMSegmentedControl.h"
 
 #define SCREEN_WIDTH ([UIScreen mainScreen].bounds.size.width)
 #define SCREEN_HEIGHT ([UIScreen mainScreen].bounds.size.height)
