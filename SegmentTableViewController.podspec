@@ -7,7 +7,7 @@ s.license      = 'MIT'
 s.author       = {'kbo' => '13751882497.com'}
 s.source       = { :git => 'https://github.com/suxiangxiao/SegmentTableViewController.git'}
 s.platform     = :ios
-s.source_files = './*.{h,m}'
+s.source_files = '*.{h,m}'
 #s.resources    = '*.{png,xib,storyboard,framework}'
 #s.frameworks = '*.helloFramework/helloFramework'
 end
